@@ -1,4 +1,13 @@
 # emacs-setup
 my personal emacs setup &amp; elisp scripts
 
-installation of debian, xmonad and all tools included
+installation 
+
+- debian jessie
+- xmonad
+- dmode
+- mono
+- fsharp
+- dotnet-core
+- ocaml
+- vscode
