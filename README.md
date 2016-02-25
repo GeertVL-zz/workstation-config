@@ -11,3 +11,5 @@ installation
 - dotnet-core
 - ocaml
 - vscode
+- docker
+- emacs
