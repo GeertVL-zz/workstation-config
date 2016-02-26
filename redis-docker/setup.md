@@ -10,4 +10,4 @@ sudo docker run --rm -it --link ewmsredis:redis redis /bin/bash
 data> redis-cli -h redis -p 6379
 
 ## RabbitMQ
-sudo docker run -d --hostname my-rabbit --name some-rabbit -p 8080:15672 rabbitmq:3-management
+sudo docker run -d --hostname my-rabbit --name some-rabbit -p 8080:15672 -p 5672:5672 rabbitmq:3-management
